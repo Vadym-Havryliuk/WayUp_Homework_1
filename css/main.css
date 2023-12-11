@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+body {
+    padding: 80px 245px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div {
+    width: 465px;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+}
+
+p {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 136.7%;
+    width: 423px;
+    margin: 30px 0;
+}
+
+a {
+    display: block;
+    padding: 22px 70px;
+    border-radius: 100px;
+    background: #FF6861;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 136.7%;
+    text-decoration: none;
+    width: 219px;
+}
